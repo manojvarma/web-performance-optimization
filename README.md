@@ -4,7 +4,7 @@
 The objective for this project was to optimize [Cameron Pittman's portfolio](https://github.com/gosukiwi/web-performance-portfolio) page for speed. The strategy was to optimize the critical rendering path, making the page render as quickly as possible, using techniques you've picked up in the [Website Performance Optimization](https://www.udacity.com/course/ud884).
 
 ### How to run
-To get started, download the entire directory, `p4`, and open it in a browser locally.
+To get started, download the entire directory, and open it in a browser locally.
 
 ### Page load speed optimization
 - Image compression: images were rescaled and resized to the final layout dimensions.
