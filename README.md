@@ -1,7 +1,7 @@
 # Website Performance Optimization Project
 
 ### About
-The objective for this project was to optimize [Cameron Pittman's portfolio](https://github.com/gosukiwi/web-performance-portfolio) page for speed. The strategy was to optimize the critical rendering path, making the page render as quickly as possible, using techniques you've picked up in the [Website Performance Optimization](https://www.udacity.com/course/ud884).
+The objective for this project was to optimize page for speed. The strategy was to optimize the critical rendering path, making the page render as quickly as possible, using techniques picked up in the [Website Performance Optimization](https://www.udacity.com/course/ud884).
 
 ### How to run
 To get started, download the entire directory, and open it in a browser locally.
